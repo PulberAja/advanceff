@@ -1,0 +1,91 @@
+/* header */
+.header-logo {
+  background-image: url(https://i.ibb.co/ygK6W2P/logo.png);
+}
+.home-banner {
+  background-image: url(https://i.ibb.co/8cQZvzX/bg-main.png);
+}
+/* icon */
+.fb-icon {
+  background-image: url(https://i.ibb.co/cg9v7mc/fb-icon.png);
+}
+.android-icon {
+  background-image: url(https://i.ibb.co/Kj2TbYT/android-icon.png);
+}
+.profile-icon {
+  background-image: url(https://i.ibb.co/23Nryqz/profile-icon.png);
+}
+.diamond-icon-1 {
+  background-image: url(https://i.ibb.co/3r18D5v/diamond1.png);
+}
+.diamond-icon-2 {
+  background-image: url(https://i.ibb.co/3r18D5v/diamond1.png);
+}
+.diamond-icon-3 {
+  background-image: url(https://i.ibb.co/3r18D5v/diamond1.png);
+}
+.diamond-icon-4 {
+  background-image: url(https://i.ibb.co/3r18D5v/diamond1.png);
+}
+.bug-icon {
+  background-image: url(https://i.ibb.co/0C34xsr/bug-icon.png);
+}
+.user-icon {
+  background-image: url(https://i.ibb.co/dKnPgpz/user-icon.png);
+}
+.email-icon {
+  background-image: url(https://i.ibb.co/vYs5XpL/email-icon.png);
+}
+.phone-icon {
+  background-image: url(https://i.ibb.co/d2xmzv5/phone-icon.png);
+}
+.icon-check{
+  background-image: url(https://i.ibb.co/GMS1XWc/ico-check.png);
+}
+.icon-uncheck{
+  background-image: url(https://i.ibb.co/NWcGwkb/ico-close.png);
+}
+.van-radio__icon--round i{
+  background-image: url(https://i.ibb.co/7KJXGBh/radio-check.png);
+}
+.van-radio__icon--checked .van-icon{
+  background-image: url(https://i.ibb.co/ZWkfkqT/radio-checked.png);
+}
+
+.van-checkbox__icon--square i{
+  background-image: url(https://i.ibb.co/6sBjxy7/checkbox-check.png);
+}
+
+.van-checkbox__icon--checked .van-icon{
+  background-image: url(https://i.ibb.co/R7zHQ2d/checkbox-checked.png);
+}
+.userinfo-icon {
+  background-image: url(https://i.ibb.co/dKnPgpz/user-icon.png);
+}
+.emailinfo-icon {
+  background-image: url(https://i.ibb.co/vYs5XpL/email-icon.png);
+}
+.phoneinfo-icon {
+  background-image: url(https://i.ibb.co/d2xmzv5/phone-icon.png);
+}
+.table-arrow {
+  background-image: url(https://i.ibb.co/MR2zNXt/arrow.png);
+}
+.func-role-1 {
+  background-image: url(https://i.ibb.co/nj7bw06/role-1.png);
+}
+.func-role-2 {
+  background-image: url(https://i.ibb.co/Jrq6WQF/role-2c.png);
+}
+.func-role-3 {
+  background-image: url(https://i.ibb.co/C2XDTM9/role-3.png);
+}
+/* page */
+.page {
+  background-image: url(https://i.ibb.co/7C9DySD/bg.png);
+}
+
+/* tips */
+.tips-icon {
+  background-image: url(https://i.ibb.co/QYsNJNt/warn-icon.png);
+}
